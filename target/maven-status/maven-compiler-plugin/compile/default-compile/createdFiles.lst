@@ -1,0 +1,7 @@
+com\jason\common\model\Stride.class
+com\jason\common\model\Stairwell.class
+com\jason\common\config\WebConfig.class
+com\jason\common\service\StrideCalculator.class
+com\jason\common\controller\StairwellController.class
+com\jason\common\service\StrideCalculatorImpl.class
+com\jason\common\model\Landing.class
